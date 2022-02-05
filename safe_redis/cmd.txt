@@ -1,0 +1,2 @@
+config set masterauth 123
+config set requirepass 123
